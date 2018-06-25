@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="task" label="Fresh Start" max_length="40" name="x_202799_the_dizzl_fresh_start" type="collection"/>
+</database>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>mleighton</sys_created_by>
+        <sys_created_on>2018-06-22 16:40:59</sys_created_on>
+        <sys_id>eacfd1aedb321300b2e6f20ebf961901</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_202799_the_dizzl_fresh_start.x_202799_the_dizzl.fresh_start_user</sys_name>
+        <sys_package display_value="The Dizzle" source="x_202799_the_dizzl">626ed12edb321300b2e6f20ebf961983</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="The Dizzle">626ed12edb321300b2e6f20ebf961983</sys_scope>
+        <sys_security_acl display_value="x_202799_the_dizzl_fresh_start">e2cf91aedb321300b2e6f20ebf9619ff</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_eacfd1aedb321300b2e6f20ebf961901</sys_update_name>
+        <sys_updated_by>mleighton</sys_updated_by>
+        <sys_updated_on>2018-06-22 16:40:59</sys_updated_on>
+        <sys_user_role display_value="x_202799_the_dizzl.fresh_start_user" name="x_202799_the_dizzl.fresh_start_user">d6cf152edb321300b2e6f20ebf96195f</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
